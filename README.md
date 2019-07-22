@@ -17,4 +17,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Home UI]()
+![Home UI](https://raw.githubusercontent.com/jonathan1313/HashGameFlutter/master/screen_shot/screen_shot3.png)
+![Home UI](https://raw.githubusercontent.com/jonathan1313/HashGameFlutter/master/screen_shot/screen_shot1.png)
+![Home UI](https://raw.githubusercontent.com/jonathan1313/HashGameFlutter/master/screen_shot/screen_shot2.png)
